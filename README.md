@@ -26,6 +26,7 @@ I am recent Full Stack Developer graduate looking for opportunities and collabar
 </p>
 
 ##✉️ Find me on:
+<br/>
 [<img src="https://img.shields.io/badge/Xing-%231DA1F2.svg?&style=for-the-badge&logo=Xing&logoColor=Green" />](https://www.xing.com/profile/Manish_Khadgishahi/cv)   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/manishwild/)
 <!--
 **manishwild/manishwild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
