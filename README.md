@@ -6,7 +6,7 @@ I am recent Full Stack Developer graduate looking for opportunities and collabar
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishwild&theme=tokyonight)
 
-![](https://img.shields.io/badge/<Technologies>-<Tools>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 ## 🧰 Languages and Tools:
 <p align="center">
