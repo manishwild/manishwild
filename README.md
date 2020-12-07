@@ -1,6 +1,12 @@
 ### Hey<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Manish Khadgi shahi 😎 ! 
+
 I am recent Full Stack Developer graduate looking for opportunities and collabaration in projects related to web development.
 ![](https://visitor-badge.laobi.icu/badge?page_id=manishwild)
+- 🔭 I’m currently working on some of my project
+- 🌱 I’m currently learning next.js and going deep in React n Redux
+- 📫 How to reach me: manishwild1000@gmail.com
+- ⚡ Fun fact: i love coding and learning new things.
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=manishwild&show_icons=true&theme=tokyonight)
 
@@ -25,7 +31,7 @@ I am recent Full Stack Developer graduate looking for opportunities and collabar
 
 </p>
 
-##✉️ Find me on:
+✉️ Find me on:
 <br/>
 [<img src="https://img.shields.io/badge/Xing-%231DA1F2.svg?&style=for-the-badge&logo=Xing&logoColor=Green" />](https://www.xing.com/profile/Manish_Khadgishahi/cv)   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/manishwild/)
 <!--
@@ -33,12 +39,12 @@ I am recent Full Stack Developer graduate looking for opportunities and collabar
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on some of my project
+- 🌱 I’m currently learning next.js and going deep in React n Redux
 - 👯 I’m looking to collaborate on ...
 - 😎 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: manishwild1000@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: i love coding and
 -->
