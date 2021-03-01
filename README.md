@@ -13,6 +13,7 @@ I am recent Full Stack Developer graduate looking for opportunities and collabar
 - DrHome platform is built with Nodejs,Express,EJS .it is a Multi Propose Healthcare Website which can be used for hospitals, clinics and doctors offices.Patient data and photos can be added and deleted
 - www.github.com/manishwild
 - (other projects)
+- https://manishwild.github.io/weather/
 This is my git hub page where you can view other little projects I have done on the way.
 
 
