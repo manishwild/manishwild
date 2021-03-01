@@ -11,7 +11,8 @@ I am recent Full Stack Developer graduate looking for opportunities and collabar
 -epShop platform is built with MongoDB,Express,React,Nodejs & Redux.Full-featured medicine shopping cart, product review, and ratings, Top products carousel, Admin product management, Admin user management, Checkout process (shipping, payment method, etc), PayPal & credit card integration, and many more
 - https://drhome.herokuapp.com/
 - DrHome platform is built with Nodejs,Express,EJS .it is a Multi Propose Healthcare Website which can be used for hospitals, clinics and doctors offices.Patient data and photos can be added and deleted
-- www.github.com/manishwild(other projects)
+- www.github.com/manishwild
+- (other projects)
 This is my git hub page where you can view other little projects I have done on the way.
 
 
