@@ -21,7 +21,12 @@ This is my git hub page where you can view other little projects I have done on 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishwild&theme=tokyonight)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishwild" alt="manishwild" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishwild&show_icons=true&locale=en&layout=compact" alt="manishwild" /></p>
 
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishwild&" alt="manishwild" /></p>
 
 ## 🧰 Languages and Tools:
 <p align="center">
