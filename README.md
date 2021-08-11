@@ -49,7 +49,6 @@ This is my git hub page where you can view other little projects I have done on 
 <a href="https://babeljs.io/" title="Babel"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/babel.svg" alt="Babel" width="40px" height="40px"></a>
 <a href="https://eslint.org/" title="ESLint"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/eslint.svg" alt="ESLint" width="40px" height="40px"></a>
 <a href="https://prettier.io/" title="Prettier"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/prettier.svg" alt="Prettier" width="40px" height="40px"></a>
-<a href="https://jestjs.io/" title="Jest"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/jest.svg" alt="Jest" width="40px" height="40px"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="40px" height="40px"></a>
 <a href="https://wordpress.org/" title="WordPress"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/wordpress-icon.svg" alt="WordPress" width="40px" height="40px"></a>
 <a href="https://material-ui.com/" title="Material UI"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/material-ui.svg" alt="Material UI" width="40px" height="40px"></a>
