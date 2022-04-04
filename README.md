@@ -3,7 +3,7 @@
 I am recent Full Stack Developer graduate looking for opportunities and collabaration in projects related to web development.
 ![](https://visitor-badge.laobi.icu/badge?page_id=manishwild)
 - 🔭 I’m currently working on some of my project and looking for work
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Typescript and NextJs
 - 📫 How to reach me: manishwild1000@gmail.com
 - ⚡ Fun fact: i love coding and learning new things.
 - - My projects
