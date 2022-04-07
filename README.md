@@ -32,6 +32,7 @@ This is my git hub page where you can view other little projects I have done on 
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="40px" height="40px"></a>
 <a href="https://tc39.es/ecma262/" title="ECMAScript 6"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/es6.svg" alt="ECMAScript 6" width="40px" height="40px"></a>
+<a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/typescript-icon.svg" alt="Typescript" width="40px" height="40px"></a>  
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" width="40px" height="40px"></a>
 <a href="https://redux.js.org/" title="Redux"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/redux.svg" alt="Redux" width="40px" height="40px"></a>
 <a href="https://jquery.com/" title="jQuery"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/jquery-icon.svg" alt="jQuery" width="40px" height="40px"></a>
@@ -53,7 +54,8 @@ This is my git hub page where you can view other little projects I have done on 
 <a href="https://wordpress.org/" title="WordPress"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/wordpress-icon.svg" alt="WordPress" width="40px" height="40px"></a>
 <a href="https://material-ui.com/" title="Material UI"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/material-ui.svg" alt="Material UI" width="40px" height="40px"></a>
 <a href="https://ant.design/" title="Ant Design"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/ant-design.svg" alt="Ant Design" width="40px" height="40px"></a>
-<a href="https://jestjs.io/" title="Jest"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/jest.svg" alt="Jest" width="40px" height="40px"></a>  
+<a href="https://jestjs.io/" title="Jest"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/jest.svg" alt="Jest" width="40px" height="40px"></a> 
+<a href="https://zeit.co/next" title="Next.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nextjs.svg" alt="Next.js" width="40px" height="40px"></a> 
 </p>
 
 ✉️ Find me on:
@@ -62,14 +64,3 @@ This is my git hub page where you can view other little projects I have done on 
 <!--
 **manishwild/manishwild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on some of my project
-- 🌱 I’m currently learning next.js and going deep in React n Redux
-- 👯 I’m looking to collaborate on ...
-- 😎 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: manishwild1000@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: i love coding and
--->
