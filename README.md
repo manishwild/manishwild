@@ -14,7 +14,9 @@ I am recent Full Stack Developer graduate looking for opportunities and collabar
 - www.github.com/manishwild
 - (other projects)
 - https://manishwild.github.io/weather/
-This is my git hub page where you can view other little projects I have done on the way.
+- This is my git hub page where you can view other little projects I have done on the way.
+- https://manishblog.vercel.app/
+- ManishBlog Platform is built with NextJS, React Hooks, MongoDB, CSS. This Website is very fast and easy to load. I used React-Markdown to read and fetch data from Markdowns Files. I used React-Syntax-Higligter for Rendering code Snippets from Markdown file.
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=manishwild&show_icons=true&theme=tokyonight)
