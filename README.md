@@ -17,6 +17,8 @@ I am recent Full Stack Developer graduate looking for opportunities and collabar
 - This is my git hub page where you can view other little projects I have done on the way.
 - https://manishblog.vercel.app/
 - ManishBlog Platform is built with NextJS, React Hooks, MongoDB, CSS. This Website is very fast and easy to load. I used React-Markdown to read and fetch data from Markdowns Files. I used React-Syntax-Higligter for Rendering code Snippets from Markdown file.
+- https://reactredux-todos.netlify.app/
+- ReactRedux-Todos Platform is built With React and Redux.This is Simple Todo Website.
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=manishwild&show_icons=true&theme=tokyonight)
