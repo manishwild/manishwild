@@ -1,4 +1,4 @@
-### Hey<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Manish Khadgi shahi 😎 ! 
+### Hey<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I am Manish Khadgi shahi 😎 ! 
 
 I am recent Full Stack Developer graduate looking for opportunities and collabaration in projects related to web development.
 ![](https://visitor-badge.laobi.icu/badge?page_id=manishwild)
