@@ -21,7 +21,7 @@ I am a Full Stack Developer graduate looking for opportunities and collaboration
   
   
 - https://reactredux-todos.netlify.app/
-- ReactRedux-Todos Platform is built With React and Redux.This is Simple Todo Website.
+  - ReactRedux-Todos Platform is built With React and Redux.This is Simple Todo Website.
 
 - https://thedrinkdetails.netlify.app/
   - The Drink Detail is a Drinks Recipe app. Main propose is to search for cocktails. Also, you can search the drinks by name.
