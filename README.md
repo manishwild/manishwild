@@ -6,7 +6,7 @@ I am a Full Stack Developer graduate looking for opportunities and collaboration
 - 🌱 I’m currently learning Typescript and NextJs
 - 📫 How to reach me: manishwild1000@gmail.com
 - ⚡ Fun fact: I love coding and learning new things.
-- 
+
      ## My projects
 - https://epshopapp.herokuapp.com/
   * epShop platform is built with MongoDB,Express,React,Nodejs & Redux.Full-featured medicine shopping cart, product review, and ratings, Top products carousel, Admin product management, Admin user management, Checkout process (shipping, payment method, etc), PayPal & credit card integration, and many more
