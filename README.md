@@ -32,6 +32,10 @@ I am recent Full Stack Developer graduate looking for opportunities and collabar
 - The Quiz App is to test your knowledge. Main propose is to search for different category and different level. Also, you can add the question from 10 to 50.
 - The Quiz App feature is you can a set a question and answer game and test your knowledge. I used ReactJS and contextApi to build this app.
 
+- https://newsearch.vercel.app/
+- The NewsSearch is an app that you can search for technologies related news. Main propose is to search for articles which you want to know. Also, you can search the article by name.
+- The newsSearch feature is you can a search articles about Technologies. You can see the little information card, and also you can get information by clicking the card. I used ReactJS and context API to build this app.
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=manishwild&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishwild&theme=tokyonight)
