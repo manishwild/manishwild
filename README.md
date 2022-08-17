@@ -8,38 +8,50 @@ I am a Full Stack Developer graduate looking for opportunities and collaboration
 - ⚡ Fun fact: I love coding and learning new things.
 
      ## My projects
-- https://epshopapp.herokuapp.com/
+- ## https://epshopapp.herokuapp.com/
   * epShop platform is built with MongoDB,Express,React,Nodejs & Redux.Full-featured medicine shopping cart, product review, and ratings, Top products carousel, Admin product management, Admin user management, Checkout process (shipping, payment method, etc), PayPal & credit card integration, and many more
-- https://drhome.herokuapp.com/
+- ## https://drhome.herokuapp.com/
   * DrHome platform is built with Nodejs,Express,EJS .it is a Multi Propose Healthcare Website which can be used for hospitals, clinics and doctors offices.Patient data and photos can be added and deleted
-- www.github.com/manishwild
-  * (other projects)
-- https://manishwild.github.io/weather/
+  
+- ## https://manishwild.github.io/weather/
   * This is my git hub page where you can view other little projects I have done on the way.
-- https://manishblog.vercel.app/
+  
+- ## https://manishblog.vercel.app/
   - ManishBlog Platform is built with NextJS, React Hooks, MongoDB, CSS. This Website is very fast and easy to load. I used React-Markdown to read and fetch data from Markdowns Files. I used React-Syntax-Higligter for Rendering code Snippets from Markdown file.
   
   
-- https://reactredux-todos.netlify.app/
+- ## https://reactredux-todos.netlify.app/
   - ReactRedux-Todos Platform is built With React and Redux.This is Simple Todo Website.
 
-- https://thedrinkdetails.netlify.app/
+- ## https://thedrinkdetails.netlify.app/
   - The Drink Detail is a Drinks Recipe app. Main propose is to search for cocktails. Also, you can search the drinks by name.
   - The Drink Detail feature is you can a search a drink. You can see the pictures, and also you can get information. I used ReactJS to build this app.
 
-- https://photosearch.herokuapp.com/
+- ## https://photosearch.herokuapp.com/
   - Search-photo is a photo searching app. Main propose is to get auto infinite scroll. Also, you can search the photos by name.
   - Infinite scroll show the first 10 results, after that it will fetch the new content.
   I use Unsplash API and use .env file to hide it. If you want to use my apps please create your Unsplash account and from there you can get API. Create .env file or     if you don't want to use .env file instead of ${process.env.REACT_APP_ACCESS_KEY} you can write API there.
   
   
-- https://quizsapp.netlify.app/
+- ## https://quizsapp.netlify.app/
   - The Quiz App is to test your knowledge. Main propose is to search for different category and different level. Also, you can add the question from 10 to 50.
   - The Quiz App feature is you can a set a question and answer game and test your knowledge. I used ReactJS and contextApi to build this app.
 
-- https://newsearch.vercel.app/
+- ## https://newsearch.vercel.app/
   - The NewsSearch is an app that you can search for technologies related news. Main propose is to search for articles which you want to know. Also, you can search the article by name.
   - The newsSearch feature is you can a search articles about Technologies. You can see the little information card, and also you can get information by clicking the card. I used ReactJS and context API to build this app.
+
+- ## https://authgithub.netlify.app/
+
+  - Search GitHub User is a GitHub searching app. Main propose is to get Information about GitHub user. Also, you can see the followers, repos, language used. It will show the Pie Chart, Donut Chart, Column Chart and Bar Chart.
+
+  - Search GitHub User I used ReactJS to build this app and Context API, Styled-Components, React Icons, React-Router-Dom, GitHub API, Fusion Charts And Auth0 API.
+
+  - I use Auth0 API and use .env file to hide it. If you want to use my apps please create your Auth0 account and from there you can get API. Create .env file or if you don't want to use .env file instead of ${process.env.REACT_APP_File_name} you can write API there. You can find in index.js.
+  - From Auth0 you can Sign In Google or GitHub Account or you can give your Email address. After you log in, you can search the GitHub User.
+
+- www.github.com/manishwild
+  * (other projects)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=manishwild&show_icons=true&theme=tokyonight)
 
