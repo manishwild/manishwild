@@ -27,7 +27,7 @@ I am a Full Stack Developer graduate looking for opportunities and collaboration
   - The Drink Detail is a Drinks Recipe app. Main propose is to search for cocktails. Also, you can search the drinks by name.
   - The Drink Detail feature is you can a search a drink. You can see the pictures, and also you can get information. I used ReactJS to build this app.
 
-- ## https://photosearch.herokuapp.com/
+- ## https://photosearching.netlify.app/
   - Search-photo is a photo searching app. Main propose is to get auto infinite scroll. Also, you can search the photos by name.
   - Infinite scroll show the first 10 results, after that it will fetch the new content.
   I use Unsplash API and use .env file to hide it. If you want to use my apps please create your Unsplash account and from there you can get API. Create .env file or     if you don't want to use .env file instead of ${process.env.REACT_APP_ACCESS_KEY} you can write API there.
