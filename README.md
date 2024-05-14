@@ -92,6 +92,9 @@ I am a Full Stack Developer graduate looking for opportunities and collaboration
 <a href="https://ant.design/" title="Ant Design"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/ant-design.svg" alt="Ant Design" width="40px" height="40px"></a>
 <a href="https://jestjs.io/" title="Jest"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/jest.svg" alt="Jest" width="40px" height="40px"></a> 
 <a href="https://zeit.co/next" title="Next.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nextjs.svg" alt="Next.js" width="40px" height="40px"></a> 
+<a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="40px" height="40px"></a>
+<a href="https://php.net/" title="PHP"><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" width="40px" height="40px"></a>
+<a href="https://reactnative.dev/" title="React Native"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React Native" width="40px" height="40px"></a>
 </p>
 
 ✉️ Find me on:
