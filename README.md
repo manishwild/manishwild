@@ -10,7 +10,7 @@ I am a Full Stack Developer graduate looking for opportunities and collaboration
      ## My projects
 - ## https://epshopapp.herokuapp.com/
   * epShop platform is built with MongoDB,Express,React,Nodejs & Redux.Full-featured medicine shopping cart, product review, and ratings, Top products carousel, Admin product management, Admin user management, Checkout process (shipping, payment method, etc), PayPal & credit card integration, and many more
-- ## https://drhome.herokuapp.com/
+- ## https://drhome.vercel.app/
   * DrHome platform is built with Nodejs,Express,EJS .it is a Multi Propose Healthcare Website which can be used for hospitals, clinics and doctors offices.Patient data and photos can be added and deleted
   
 - ## https://manishwild.github.io/weather/
